@@ -8,7 +8,7 @@ namespace API.Teste.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-        "FreezingMALA_FABIO_TESTE", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        "FreezingTESTE_DENOVO", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
